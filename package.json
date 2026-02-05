@@ -1,0 +1,14 @@
+{
+  "name": "courses-registration-system",
+  "version": "1.0.0",
+  "description": "نظام تسجيل المواد الدراسية مع Vercel API",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@vercel/node": "^2.9.12"
+  }
+}
